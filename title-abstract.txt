@@ -1,5 +1,7 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Real-Network Modeling
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+The internet as we know it was introduced all the way back in 1983 but it wasn’t until 1994 that a company known as NetMarket first started selling internet services. And since then, the satellite service providing industry has increased exponentially. Every company aims to provide the best network conditions to customers in an industry where quality is so important. And that is specifically where improvements can always be made. Being able to detect network issues and monitor network performance for issues is so important in the real world for positive customer experience and that is the problem we home to tackle with our project. At the end of the day, the customer makes the business and increasing customer satisfaction is always a priority in successful business.
+
+The motivating problem is that predicting latency and packet loss can be extremely beneficial from a network providers perspective as they aim to give out the best service possible. This information is vital in the monitoring of network conditions to ensure the quality of the product. Being able to predict these issues based on machine learning models before they happen will drastically improve the internet experience for hundred of thousands of customers.
